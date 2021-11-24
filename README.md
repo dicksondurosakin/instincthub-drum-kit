@@ -1,0 +1,1 @@
+This code was written while i was taking the Web Development Bootcamp by Angela Yu. In this drum kit challenge I learnt about how to manupulate DOM objects, how to add events listeners to the webpage and how to add animation to the webpage. This was the part where i finished javascript with Angela YU
